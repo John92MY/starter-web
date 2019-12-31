@@ -15,3 +15,7 @@ A simple web project ready for deployment
 ## Copyright
 
 2019 Git Practice 
+
+## How to Contribute
+
+Please Fork this 
