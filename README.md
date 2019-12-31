@@ -19,3 +19,6 @@ A simple web project ready for deployment
 ## How to Contribute
 
 Please Fork this 
+
+## Rebasing example
+Adding some more text for rebasing example
