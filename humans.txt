@@ -13,3 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# Comment
+
+Please leave a review if you love this text
