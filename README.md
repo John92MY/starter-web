@@ -24,3 +24,7 @@ Please Fork this
 Adding some more text for rebasing example
 
 More change for my feature branch
+
+## Copyright
+
+All rights reserved Johnny.
